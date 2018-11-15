@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
 </head>
 <div>
-<a href="index.php" id="logo"><img src="images/Calvinspace.png" style="width: 25%; height: auto;"></a>
+<a href="index.php" id="logo"><img src="logo.png" style="width: 25%; height: auto;"></a>
 <p style="position: absolute; top: 0px; left: 26%;">
 <?php 
 session_start();
