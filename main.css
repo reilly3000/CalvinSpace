@@ -1,0 +1,35 @@
+body {
+    margin: 5px;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 56px;
+}
+
+h3 {
+    font-size: 45px;
+    margin: 5px;
+}
+
+h4 {
+    margin: 5px;
+    font-size: 30px;
+}
+
+#profile-editor {
+    columns: 50;
+    min-width: 500px;
+    min-height: 300px;
+}
+
+.post-text {
+    margin: 5px;
+}
+
+.post {
+    margin-top: 50px;
+}
